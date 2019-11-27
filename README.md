@@ -1,4 +1,4 @@
-# my project *Jorge Ramirez 123456 [@jorgeramirez](hettps://github.com/jorgeramirez)ame
+# my project *Jorge Ramirez 123456 [@jorgeramirez](hettps://github.com/jorgeramirez)
 
 * Mario
 * Jane
